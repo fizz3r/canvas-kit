@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.2d89566a209a57e7c89e.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.2d89566a209a57e7c89e.bundle.js.map",
+    "runtime~main.js": "/runtime~main.2d89566a209a57e7c89e.bundle.js",
+    "runtime~main.js.map": "/runtime~main.2d89566a209a57e7c89e.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.2d89566a209a57e7c89e.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.2d89566a209a57e7c89e.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.90cab9adc1c3270cd9dd34ccb8096592.js": "/precache-manifest.90cab9adc1c3270cd9dd34ccb8096592.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/workday-bg.jpg": "/static/media/workday-bg.973ed556.jpg"
+  },
+  "entrypoints": [
+    "runtime~main.2d89566a209a57e7c89e.bundle.js",
+    "vendors~main.css",
+    "vendors~main.2d89566a209a57e7c89e.bundle.js",
+    "main.css",
+    "main.2d89566a209a57e7c89e.bundle.js"
+  ]
+}
